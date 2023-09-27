@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="\\napier-mail.napier.ac.uk\students\School of Computing\User Data\40530119\My Profile\Desktop\CMakeFiles\d117bf2d22b98fc409945e3a82e146be\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="H:\set09121_labs\lib\sfml\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\lib\sfml</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\CompilerWarnings.cmake">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\Config.cmake">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\Macros.cmake">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\Mesa3D.cmake">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\Modules\FindFLAC.cmake">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake\Modules</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\Modules\FindFreetype.cmake">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake\Modules</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\Modules\FindOpenAL.cmake">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake\Modules</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\Modules\FindVorbis.cmake">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake\Modules</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\SFMLConfig.cmake.in">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\cmake\SFMLConfigDependencies.cmake.in">
+      <Filter>Buildsystem Input Files\lib\sfml\cmake</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\src\SFML\Audio\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\lib\sfml\src\SFML\Audio</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\src\SFML\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\lib\sfml\src\SFML</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\src\SFML\Graphics\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\lib\sfml\src\SFML\Graphics</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\src\SFML\Main\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\lib\sfml\src\SFML\Main</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\src\SFML\Network\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\lib\sfml\src\SFML\Network</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\src\SFML\System\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\lib\sfml\src\SFML\System</Filter>
+    </None>
+    <None Include="H:\set09121_labs\lib\sfml\src\SFML\Window\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\lib\sfml\src\SFML\Window</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4FB75EC6-047E-38C7-80B9-C2EEA3513B82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{769B66CD-6D8E-3033-A81D-BE57F044B11C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml">
+      <UniqueIdentifier>{7AF66823-8EAD-3135-8532-7C3BF3CAA65D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml\cmake">
+      <UniqueIdentifier>{1E128979-B872-3DEC-8436-C99F438EB8DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml\cmake\Modules">
+      <UniqueIdentifier>{F2C84767-5C9E-3E1C-9C7E-6012BE14327A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml\src\SFML">
+      <UniqueIdentifier>{EA6052C0-7E32-39AA-BC3A-6FF130AC173A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml\src\SFML\Audio">
+      <UniqueIdentifier>{3A7B6F10-B0FB-3118-949D-D020F352FF37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml\src\SFML\Graphics">
+      <UniqueIdentifier>{4C0F1C19-C619-3591-9CD9-2A5DC1E650A4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml\src\SFML\Main">
+      <UniqueIdentifier>{A9D6B91E-8C77-3726-BEF9-27D66E54B9C7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml\src\SFML\Network">
+      <UniqueIdentifier>{27AB0075-7DD0-3D73-8D9B-B4D791D6E1A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml\src\SFML\System">
+      <UniqueIdentifier>{E33156E1-FFB7-3AD7-88A3-99DA7B53944E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\lib\sfml\src\SFML\Window">
+      <UniqueIdentifier>{85414AA2-8168-3559-9280-31D7CB786FBE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

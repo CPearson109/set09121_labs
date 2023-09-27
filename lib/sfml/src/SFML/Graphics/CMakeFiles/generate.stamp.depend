@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.27/Modules/FindPackageMessage.cmake
+H:/set09121_labs/lib/sfml/cmake/Modules/FindFreetype.cmake
+H:/set09121_labs/lib/sfml/src/SFML/Graphics/CMakeLists.txt
